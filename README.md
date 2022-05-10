@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :smiley:
 
-I am a software engineering student at General Assembly. I have a passion for 
+:woman_technologist: I am a software engineering student at General Assembly. I am passionate about continued education and enjoy learning different programming languages. Currently I am refining my knowledge in Javascript, jQuery and ajax. I have a Bachelor's degree in Health Science and hope to combine my knowldege in health with technology. 
 
 ![edited welcome gif](https://user-images.githubusercontent.com/84214401/167692981-ed86e076-2f35-4f8a-be86-cca0af593d48.gif)
 
